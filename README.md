@@ -1,1 +1,1 @@
-# WHere my usable functions will pushed to
+# Where my usable JavaScript functions will be
