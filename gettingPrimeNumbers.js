@@ -18,7 +18,7 @@ function showPrimes(n) {
   for (let i = 2; i < n; i++) {
     if (!isPrime(i)) continue;
 
-    alert(i);  // a prime
+    console.log(i);  // a prime
   }
 }
 
@@ -44,7 +44,7 @@ function showPrimes(n) {
   for (let i = 2; i < n; i++) {
     if (!isPrime(i)) continue;
 
-    alert(i);  // a prime
+    console.log(i);  // a prime
   }
 }
 }
